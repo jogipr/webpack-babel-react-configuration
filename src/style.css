@@ -1,0 +1,12 @@
+.submit-button{
+    border-radius: 2px;
+    padding: 8px;
+    background-color: snow;
+    margin: 8px;
+
+}
+.container{
+    margin: 8px;
+    border: 1px solid salmon;
+    padding:8px
+}
